@@ -1,3 +1,7 @@
+""" LUIZ FERNANDO REIS PEREIRA, BCC TURMA U, 2° PERIODO"""
+
+""" Para  obter  os  pontos  relativos  a  este  trabalho,  você  deverá  criar  um  programa,  utilizando  a linguagem  Python, C, ou C++.  Este  programa,  quando  executado,  irá  apresentar  os  resultados  de operações que serão realizadas entre dois conjuntos de dados.  """
+
 OpLines = []; ListOp = []; Arrfile = []; count = 0; Op = -2; j = 0; I = []
 with open("infile", 'r') as file:
     QuantOp = file.readline(1)
